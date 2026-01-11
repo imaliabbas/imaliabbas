@@ -1,12 +1,14 @@
-# Hi There👋:
+# Hi There👋
 I’m Ali Abbas. I love to turn ideas into web applications. I'm currently working as a full-stack developer.
 
-# About Me:
-I'm a **Software Engineer** | **Problem Solver** | **Curious Mind**
-*👨‍💻 I build full-stack web applications with modern frameworks and APIs.  
-*🚀 I love optimizing workflows, creating template-driven solutions, and tackling complex problems.  
-*🌱 I constantly explore new technologies and contribute to open source whenever I can.  
-*💡 I enjoy turning ideas into practical solutions and helping others grow.
+# About Me 🤗
+I'm a **Software Engineer** | **Problem Solver** | **Curious Mind** <br>
+<ul>
+  <li>👨‍💻 I build full-stack web applications with modern frameworks and APIs.</li>
+  <li>🚀 I love optimizing workflows, creating template-driven solutions, and tackling complex problems.</li>
+  <li>🌱 I constantly explore new technologies and contribute to open source whenever I can.</li>
+</ul>
+
 
 
 ## 🌐 Socials:
