@@ -1,5 +1,5 @@
-# Hi 👋🏻:
-👨‍💻 I’m currently working on  <br>Building modern, scalable web applications with a focus on clean code, performance, and AI-assisted features.<br><br>🤝 I’m looking to collaborate on  <br>Open-source projects and real-world applications involving web development and AI-enabled solutions.<br><br>🛠️ I’m looking for help with  <br>System design, scalable architectures, and integrating AI capabilities into production applications.<br><br>🌱 I’m currently learning  <br>Advanced JavaScript, TypeScript, backend development, cloud-based application design, and applied AI concepts.<br><br>💬 Ask me about  <br>Web development, backend APIs, performance optimization, and integrating AI into web applications.<br><br>⚡ Fun fact  <br>Most of my best ideas start after the first cup of coffee.
+# 💫 About Me:
+I’m a software engineer working on building scalable full-stack solutions with a focus on quality and maintainability.<br>I enjoy solving complex problems and exploring how AI can enhance real-world applications.
 
 
 ## 🌐 Socials:
